@@ -2,4 +2,5 @@ first line
 second line from new_branch
 third line from main new_branch
 third line from conflict_branch
+fifth line from code-branch
 
